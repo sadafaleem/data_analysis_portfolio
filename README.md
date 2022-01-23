@@ -1,6 +1,6 @@
-# Data Analysis Portfolio
+# Sadaf Aleem - Data Analysis Portfolio
 
-# About Sadaf Aleem
+## About 
  Hi, I’m @sadafaleem.I have a technical background and I have completed my graduation in Electronic Engineering, majoring in Telecommunications. I have worked in IT sector and currently I’m interested in learning about data science, analysis, interpreting, analyzing and reporting on data. I’m currently learning tools and techniques involved in data analysis and visualization in the industry.
 This is a repository I have created to showcase and highlght myprojects, learning and achievements
 
@@ -32,7 +32,7 @@ Description: My Tableau Public account ---> enter link
 
 ## Study Courses
 
-### SAS - DATA ANALYST TRAINING
+### SAS - Data Analyst Training
 * Description: This programme is for users who want to acquire data analysis skills. Learn how to use SAS to access, explore, prepare, analyse and present data.
 * Repository: This includes course notes and data files of courses required for data analyst pathway. [Go to Course](https://www.sas.com/en_gb/training/step/data-analyst-training.html)
 * Status: Some of the courses are still in progress.
@@ -42,7 +42,7 @@ Description: My Tableau Public account ---> enter link
 * [Go to Course](https://www.sas.com/en_gb/training/step/data-literacy-training.html)
 * Status: Completed
 
-### Data Analysis and Machine Learning Using Python - LUMS course
+### Data Analysis and Machine Learning Using Python - LUMS
 * Description: This course is designed to teach Data Science in a hands-on manner and prepare participants for a career in this field. The course will provide you with the complete toolbox to become a Data Scientist. Students will acquire the precise technical skills recruiters are looking for when hiring Data Scientists.
 * [Go To Course](https://ces.lums.edu.pk/course-details.php?cid=127) 
 * Status: Completed
@@ -53,7 +53,7 @@ It also includeshands-on practice on Python and its popular libraries, including
 * [Go to Course]((https://www.datacamp.com/tracks/data-analyst-with-python)) 
 * Status: Some of the courses are still in progress.
 
-### Fundamentals of Data Analytics - LUMS Course
+### Fundamentals of Data Analytics - LUMS 
 * Description: This Course is designed to teach data analysis and business intelligence in a hands-on manner and prepare the participants for a career in this field. The course will provide instruction and hands-on training for students to feel confident and to begin work in the industry as a Business Intelligence Analyst or a Data Analyst.
 * [Go to Course](https://ces.lums.edu.pk/course-details.php?cid=125) 
 * Status: Completed
