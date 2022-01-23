@@ -7,9 +7,8 @@ This is a repository I have created to showcase and highlght myprojects, learnin
 ## Projects- Data Visualization
 
  ### Fundamentals of Data Analytics - LUMS Course - Data Visualization Project
-  *   COVID 19 Data Viz - Individual Assignment
-  *   Retail Supplier Analysis Dashboard - Group Project
-
+  *   [COVID 19 Data Viz](https://github.com/sadafaleem/data_visualization_projects/tree/main/COVID%2019%20Analysis%20Dashboard) - Individual Assignment
+  *   [Manufacturing Company Performance Analysis Dashboard](https://github.com/sadafaleem/data_visualization_projects/tree/main/Manufacturing%20company%20performance%20analysis) - Group Project
 
 ### Tableau for Beginners
 Description: My Tableau Public account ---> [Vizzes](https://public.tableau.com/app/profile/sadaf.aleem#!/?newProfile=&activeTab=0)
@@ -29,8 +28,6 @@ Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_sci
 (in reverse chronological order)
 *   Analyze International Debt Statistics – Guided - SQL,19 April 2021
 *   What and Where Are the World's Oldest Businesses? – Guided - SQL,  18 April 2021
-
-## DataCamp Workspace/ Side Projects
 
 ## Study Courses
 
