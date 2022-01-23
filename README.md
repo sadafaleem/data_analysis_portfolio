@@ -7,15 +7,16 @@ This is a repository I have created to showcase and highlght myprojects, learnin
 ## Projects- Data Visualization
 
  ### Fundamentals of Data Analytics - LUMS Course - Data Visualization Project
-  *   COVID 19 Data Viz-Data Visualization Project
-  *   Retail Supplier Analysis Dashboard - Data Visualization Group Project
+  *   COVID 19 Data Viz - Individual Assignment
+  *   Retail Supplier Analysis Dashboard - Group Project
 
 
 ### Tableau for Beginners
-Description: My Tableau Public account ---> enter link
+Description: My Tableau Public account ---> [Vizzes](https://public.tableau.com/app/profile/sadaf.aleem#!/?newProfile=&activeTab=0)
 
 ## DataCamp Projects - Python
-(in reverse chronological order) (should include readme files for all projects containing its description)
+Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_science_projects) Repository
+(in reverse chronological order)
 * 	Investigating Netflix Movies and Guest Stars in The Office - Unguided,28 May 2021
 * 	Investigating Netflix Movies and Guest Stars in The Office, 23 May 2021
 * 	Analyzing TV Data,10 May 2021
@@ -24,6 +25,7 @@ Description: My Tableau Public account ---> enter link
 
 
 ## DataCamp Projects - SQL
+Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_science_projects) Repository
 (in reverse chronological order)
 *   Analyze International Debt Statistics – Guided - SQL,19 April 2021
 *   What and Where Are the World's Oldest Businesses? – Guided - SQL,  18 April 2021
