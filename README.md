@@ -32,36 +32,31 @@ Description: My Tableau Public account ---> enter link
 
 ## Study Courses
 
-### SAS STEP - DATA ANALYST
-Description: This programme is for users who want to acquire data analysis skills. Learn how to use SAS to access, explore, prepare, analyse and present data.
-Repository: This includes course notes and data files of all 7 courses required for data analyst pathway.
-Status: Some of the courses are still in progress.
+### SAS - DATA ANALYST TRAINING
+* Description: This programme is for users who want to acquire data analysis skills. Learn how to use SAS to access, explore, prepare, analyse and present data.
+* Repository: This includes course notes and data files of courses required for data analyst pathway. [Go to Course](https://www.sas.com/en_gb/training/step/data-analyst-training.html)
+* Status: Some of the courses are still in progress.
 
-Repository: (folders - all folders should include readme files describing course content)
-1.	SAS STEP - Visual Analytics 1 for SAS Viya: Basics
-2.	SAS STEP - Programming 1: Essentials
-3.	SAS STEP - Programming 2: Data Manipulation Techniques
-4.	SAS STEP - SQL 1: Essentials
-5.	SAS STEP - Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression
-6.	SAS STEP - Statistical Thinking for Industrial Problem Solving
-7.	SAS STEP Programme - Soft Skills
-
+### SAS - Data Literacy Training
+* Description: The Data Literacy digital learning pathway provides the core knowledge and skills needed to develop an understanding of data, its importance, and what it means in a data-driven world.
+* [Go to Course](https://www.sas.com/en_gb/training/step/data-literacy-training.html)
+* Status: Completed
 
 ### Data Analysis and Machine Learning Using Python - LUMS course
-* Description: 
-* Repository: 
-* Status: 
+* Description: This course is designed to teach Data Science in a hands-on manner and prepare participants for a career in this field. The course will provide you with the complete toolbox to become a Data Scientist. Students will acquire the precise technical skills recruiters are looking for when hiring Data Scientists.
+* [Go To Course](https://ces.lums.edu.pk/course-details.php?cid=127) 
+* Status: Completed
 
 ### Data Analyst with Python Career Track, DataCamp
 * Description:  This is a [data analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) career track offered by DataCamp to gain essential skills needed to work with data. This track teaches how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
 It also includeshands-on practice on Python and its popular libraries, including including pandas, NumPy, Matplotlib, and Seaborn as well as introduction to SQL language to query data.
-* Repository: Go to repository
+* [Go to Course]((https://www.datacamp.com/tracks/data-analyst-with-python)) 
 * Status: Some of the courses are still in progress.
 
 ### Fundamentals of Data Analytics - LUMS Course
-* Description: 
-* Repository: 
-* Status: 
+* Description: This Course is designed to teach data analysis and business intelligence in a hands-on manner and prepare the participants for a career in this field. The course will provide instruction and hands-on training for students to feel confident and to begin work in the industry as a Business Intelligence Analyst or a Data Analyst.
+* [Go to Course](https://ces.lums.edu.pk/course-details.php?cid=125) 
+* Status: Completed
 
 
 ### Data Analysis with Pandas and Python - Udemy Course
@@ -72,9 +67,9 @@ Link to Course -> <https://www.udemy.com/course/data-analysis-with-pandas/>
 
 
 ### SQL - MySQL for Data Analytics and Business Intelligence - Udemy Course
-* Description: 
-* Repository: 
-* Status: 
+* Description: This is an easy to understand and comprehensive course offered on Udemy, covering essential SQL skills required for Business Analysis, Marketing, and Data Management. [Go to Course](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
+* Repository: This repository contains files included in this course
+* Status: Completed
 
 
 ## Certificates
