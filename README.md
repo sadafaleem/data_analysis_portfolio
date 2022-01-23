@@ -52,9 +52,10 @@ Repository: (folders - all folders should include readme files describing course
 * Repository: 
 * Status: 
 
-### Data Analyst Career Track, DataCamp
-* Description: 
-* Repository: 
+### Data Analyst with Python Career Track, DataCamp
+* Description:  This is a [data analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) career track offered by DataCamp to gain essential skills needed to work with data. This track teaches how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
+It also includeshands-on practice on Python and its popular libraries, including including pandas, NumPy, Matplotlib, and Seaborn as well as introduction to SQL language to query data.
+* Repository: Go to repository
 * Status: Some of the courses are still in progress.
 
 ### Fundamentals of Data Analytics - LUMS Course
