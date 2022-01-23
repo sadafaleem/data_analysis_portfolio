@@ -64,9 +64,10 @@ Repository: (folders - all folders should include readme files describing course
 
 
 ### Data Analysis with Pandas and Python - Udemy Course
-* Description: 
-* Repository: 
-* Status: 
+* Description:  This repository contains contents from an excellent course I took on Udemy to learn pandas and python. This course is offered by Boris Paskhaver. 
+Link to Course -> <https://www.udemy.com/course/data-analysis-with-pandas/>
+* Repository: Check the repository containing  resources provided, class tasks and solutions containing jupyter notebook and datasets. It also includes my practice files that i created while taking this course. [Go to Repoitory](https://github.com/sadafaleem/data_analysis_with_pandas_and_python)
+* Status: Completed
 
 
 ### SQL - MySQL for Data Analytics and Business Intelligence - Udemy Course
