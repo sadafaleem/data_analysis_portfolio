@@ -13,27 +13,56 @@ This is a repository I have created to showcase and highlght myprojects, learnin
 ### Tableau for Beginners
 Description: My Tableau Public account ---> [Vizzes](https://public.tableau.com/app/profile/sadaf.aleem#!/?newProfile=&activeTab=0)
 
-## DataCamp Projects - Python
+## Projects - Python
 Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_science_projects) Repository
 (in reverse chronological order)
 * 	**Investigating Netflix Movies and Guest Stars in The Office - Unguided Project** ,28 May 2021
+    - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
+    - **Source/Course:** 
+    - **Description:**
+    - **Skills:** 
 
 * 	**Investigating Netflix Movies and Guest Stars in The Office - Guided Project**, 23 May 2021
-    - ***Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
+    - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
     - **Source/Course:** DataCamp
-    - **Description*:** In this project, we explored if Netflix’s movies are getting shorter over time and conducted some exploratory data analysis using python and its libraries; pandas and matplotlib.
+    - **Description:** In this project, we explored if Netflix’s movies are getting shorter over time and conducted some exploratory data analysis using python and its libraries; pandas and matplotlib.
     - **Skills:** python, exploratory data analysis, data visualization
    
 * 	**Analyzing TV Data**,10 May 2021
+    - **Code/File:** [Go to File]
+    - **Source/Course:** 
+    - **Description:**
+    - **Skills:** 
+
 * 	**Exploring the History of Lego - Unguided Project**, 7 May 2021
+    - **Code/File:** [Go to File]
+    - **Source/Course:** 
+    - **Description:**
+    - **Skills:** 
+
 * 	**Exploring the History of Lego - Guided Project**, 5 May 2021
+    - **Code/File:** [Go to File]
+    - **Source/Course:** 
+    - **Description:**
+    - **Skills:** 
 
 
-## DataCamp Projects - SQL
+
+## Projects - SQL
 Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_science_projects) Repository
 (in reverse chronological order)
 *   **Analyze International Debt Statistics – Guided Project** - SQL,19 April 2021
+    - **Code/File:** [Go to File]
+    - **Source/Course:** 
+    - **Description:**
+    - **Skills:**
+    
 *   **What and Where Are the World's Oldest Businesses? – Guided Project** - SQL,  18 April 2021
+    - **Code/File:** [Go to File]
+    - **Source/Course:** 
+    - **Description:**
+    - **Skills:**
+
 
 ## Study Courses
 
