@@ -7,8 +7,20 @@ This is a repository I have created to showcase and highlght myprojects, learnin
 ## Projects- Data Visualization
 
  ### Fundamentals of Data Analytics - LUMS Course - Data Visualization Project
-  *   [COVID 19 Data Viz](https://github.com/sadafaleem/data_visualization_projects/tree/main/COVID%2019%20Analysis%20Dashboard) - Individual Assignment
-  *   [Manufacturing Company Performance Analysis Dashboard](https://github.com/sadafaleem/data_visualization_projects/tree/main/Manufacturing%20company%20performance%20analysis) - Group Project
+  *   **COVID 19 Data Visualization** - Individual Assignment
+      - **Code/File:** [Go to File](https://github.com/sadafaleem/data_visualization_projects/tree/main/COVID%2019%20Analysis%20Dashboard)
+      - **Source/Course:** Individual Project -> Fundamentals of Data Analytics - LUMS
+      - **Description:** This project was created as an individual assignment in Fundamentals of Data analytics course by LUMS. It collects live COVID data from [Worldometer](https://www.worldometers.info/coronavirus/#countries) and used that data to generate country wise and continent wise corona cases.
+      - **Skills:** Data visualization
+      - **Technology:** Power BI   
+  
+  *   **Manufacturing Company Performance Analysis Dashboard** - Group Project
+      - **Code/File:** [Go to File](https://github.com/sadafaleem/data_visualization_projects/tree/main/Manufacturing%20company%20performance%20analysis)
+      - **Source/Course:** Group Project -> Fundamentals of Data Analytics - LUMS
+      - **Description:** In this project, we analyzed the performance of a manufacturing company, including its' plants downtime analysis, vendor performance analysis and defect and types of defects analysis.
+      - **Skills:** Data visualization
+      - **Technology:** Power BI   
+
 
 ### Tableau for Beginners
 Description: My Tableau Public account ---> [Vizzes](https://public.tableau.com/app/profile/sadaf.aleem#!/?newProfile=&activeTab=0)
@@ -17,10 +29,10 @@ Description: My Tableau Public account ---> [Vizzes](https://public.tableau.com/
 Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_science_projects) Repository
 (in reverse chronological order)
 * 	**Investigating Netflix Movies and Guest Stars in The Office - Unguided Project** ,28 May 2021
-    - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
-    - **Source/Course:** 
-    - **Description:**
-    - **Skills:** 
+    - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office%20Unguided)
+    - **Source/Course:** DataCamp
+    - **Description:** In this project, we identified which guest stars appear in the most popular episode of "The Office". We used python skills to study and plot data on the history of the sitcom The Office. 
+    - **Skills:** Python, data visualization, accessing data, identifyiing trends and exploratory data analysis
 
 * 	**Investigating Netflix Movies and Guest Stars in The Office - Guided Project**, 23 May 2021
     - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
@@ -84,7 +96,7 @@ Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_sci
 ### Data Analyst with Python Career Track, DataCamp
 * Description:  This is a [data analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) career track offered by DataCamp to gain essential skills needed to work with data. This track teaches how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
 It also includeshands-on practice on Python and its popular libraries, including including pandas, NumPy, Matplotlib, and Seaborn as well as introduction to SQL language to query data.
-* [Go to Course]((https://www.datacamp.com/tracks/data-analyst-with-python)) 
+* [Go to Course](https://www.datacamp.com/tracks/data-analyst-with-python)
 * Status: Some of the courses are still in progress.
 
 ### Fundamentals of Data Analytics - LUMS 
