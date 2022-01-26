@@ -97,8 +97,8 @@ Link to Course -> <https://www.udemy.com/course/data-analysis-with-pandas/>
 ## Certificates
 Here is a list of my certifications in reverse chronological order:
 * [Data Literacy Essentials](https://www.credly.com/badges/7726879f-c768-4276-97d5-a8c9d3a00e57), SAS, 2 October 2021
-* Data Science and Machine Learning Using Python, LUMS (June- August 2021)
-* Fundamentals of Data Analytics, LUMS (March - May 2021)
+* [Data Science and Machine Learning Using Python](https://www.dropbox.com/s/8ytpc5cu3jf20ic/LUMS%20Data%20Science%20and%20ML.jpg?dl=0), LUMS (June- August 2021)
+* [Fundamentals of Data Analytics](https://www.dropbox.com/s/getb84gsfe3vw99/LUMS%20Data%20Analytics.jpg?dl=0), LUMS (March - May 2021)
 * [Cleaning data in Python](https://www.datacamp.com/statement-of-accomplishment/course/43154a6f5708ea35415769d02be288b959b20c74), DataCamp, 23 June 2021
 * [Intermediate Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/fc36ccc2499f9923892eb9583bc6f6cda37db766), DataCamp, 21 June 2021
 * [Introduction to importing data in python](https://www.datacamp.com/statement-of-accomplishment/course/d87f8d5eacdb1dbd6e8d44363dab88c252a4b8d7), DataCamp, 20 June 2021
@@ -107,8 +107,8 @@ Here is a list of my certifications in reverse chronological order:
 * [Introduction to data visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/2a3908a9b9981b4e83ddbe6344bddf99b50b2fdb), DataCamp, 11 May 2021
 * [Data Manipulation with pandas](https://www.datacamp.com/statement-of-accomplishment/course/095637ad16cbeaa8a1e92830dea8bd89666511fd), DataCamp, 5 May 2021
 * [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5b1f9d0e80f189390a3beaf03998eea69180bbfd), DataCamp, 30 April 2021
-* Prepare Data for Analysis, Power BI,  Microsoft Learn, 26 April 2021
-* Get started with Microsoft data analytics, Power BI, Microsoft Learn, 22 April 2021
+* [Prepare Data for Analysis](https://www.dropbox.com/s/1kyozrsbsvb5i5i/Power%20BI%20Microsoft%20Prepare%20data%20analysis.pdf?dl=0), Power BI,  Microsoft Learn, 26 April 2021
+* [Get started with Microsoft data analytics](https://www.dropbox.com/s/99gdsx62ujyw2n6/Power%20BI%20Microsoft%20Analytics.pdf?dl=0), Power BI, Microsoft Learn, 22 April 2021
 * [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/5a11d059466c1c6d7f8f81bd5bc3bb80b6421b49), DataCamp, 23 March 2021
 * [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/77910a5dca303ac2272cba232d2aa96e9f18328e), DataCamp, 18 March 2021
 * [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/09a364c9c4e36ee57590de882c5676269a8968a6), DataCamp, 16 March 2021
