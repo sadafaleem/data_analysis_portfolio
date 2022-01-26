@@ -113,9 +113,9 @@ Here is a list of my certifications in reverse chronological order:
 * [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/77910a5dca303ac2272cba232d2aa96e9f18328e), DataCamp, 18 March 2021
 * [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/09a364c9c4e36ee57590de882c5676269a8968a6), DataCamp, 16 March 2021
 * [Introduction to Data Science](https://www.credly.com/badges/feeb9e2b-4fa1-4f66-bc44-6487dc68a706), Cognitive AI, IBM Developer Skills Network, 4 March  2021
-* SQL, MySQL for Data Analysis and Business Intelligence, Udemy, 23 January 2021
-* Tableau for Beginners, Udemy, 18 December, 2020
-* Pandas Certificate, Kaggle, 2nd  December, 2020
-* Data Analysis with Pandas and Python,  Udemy, 30 Nov, 2020
-* Database Fundamentals, Microsoft Virtual Academy, Dec 2016
+* [SQL, MySQL for Data Analysis and Business Intelligence](https://www.dropbox.com/s/sjx4t6w29duw54n/Udemy%20SQL%20Course.jpg?dl=0), Udemy, 23 January 2021
+* [Tableau for Beginners](https://www.dropbox.com/s/rwmo9ca3otlc0m3/UdemyTableau%20for%20Beginners.jpg?dl=0), Udemy, 18 December, 2020
+* [Pandas Certificate](https://www.dropbox.com/s/oynhhf4c1y018ay/Pandas%20Kaggle.png?dl=0), Kaggle, 2nd  December, 2020
+* [Data Analysis with Pandas and Python](https://www.dropbox.com/s/06ahimgikgd6h65/Udemy%20Data%20Analysis.jpg?dl=0),  Udemy, 30 Nov, 2020
+* [Database Fundamentals](https://www.dropbox.com/s/jpoohab4kyc5wfu/Certificate_Database%20Fundamentals_MVA.pdf?dl=0), Microsoft Virtual Academy, Dec 2016
 
