@@ -27,53 +27,29 @@ Description: My Tableau Public account ---> [Vizzes](https://public.tableau.com/
 
 ## Projects - Python
 Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_science_projects) Repository
-(in reverse chronological order)
-* 	**Investigating Netflix Movies and Guest Stars in The Office - Unguided Project** ,28 May 2021
+
+* 	**Investigating Netflix Movies and Guest Stars in The Office - Unguided Project** 
     - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office%20Unguided)
     - **Source/Course:** DataCamp
     - **Description:** In this project, we identified which guest stars appear in the most popular episode of "The Office". We used python skills to study and plot data on the history of the sitcom The Office. 
     - **Skills:** Python, data visualization, accessing data, identifyiing trends and exploratory data analysis
 
-* 	**Investigating Netflix Movies and Guest Stars in The Office - Guided Project**, 23 May 2021
+* 	**Investigating Netflix Movies and Guest Stars in The Office - Guided Project**
     - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
     - **Source/Course:** DataCamp
     - **Description:** In this project, we explored if Netflix’s movies are getting shorter over time and conducted some exploratory data analysis using python and its libraries; pandas and matplotlib.
     - **Skills:** python, exploratory data analysis, data visualization
    
-* 	**Analyzing TV Data**,10 May 2021
-    - **Code/File:** [Go to File]
-    - **Source/Course:** 
-    - **Description:**
-    - **Skills:** 
-
-* 	**Exploring the History of Lego - Unguided Project**, 7 May 2021
-    - **Code/File:** [Go to File]
-    - **Source/Course:** 
-    - **Description:**
-    - **Skills:** 
-
-* 	**Exploring the History of Lego - Guided Project**, 5 May 2021
-    - **Code/File:** [Go to File]
-    - **Source/Course:** 
-    - **Description:**
-    - **Skills:** 
-
-
-
 ## Projects - SQL
 Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_science_projects) Repository
-(in reverse chronological order)
-*   **Analyze International Debt Statistics – Guided Project** - SQL,19 April 2021
-    - **Code/File:** [Go to File]
-    - **Source/Course:** 
-    - **Description:**
-    - **Skills:**
     
-*   **What and Where Are the World's Oldest Businesses? – Guided Project** - SQL,  18 April 2021
-    - **Code/File:** [Go to File]
-    - **Source/Course:** 
-    - **Description:**
-    - **Skills:**
+*   **What and Where Are the World's Oldest Businesses? – Guided Project** - SQL
+    - **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses_SQL)
+    - **Source/Course:** DataCamp 
+    - **Description:** This project involves exploring data on worlds's oldest businesses. The data is taken from BusinessFinancing.co.uk. The project involves answering questions such as when were oldest businesses founded and to which industry do they belong to.
+    - **Topics Covered/Skills:** This project covers following steps: querying data,  joining tables, manipulation tools such as grouping and filtering   
+    - **Technology:** SQL
+    - **Result:** Six business were founded before 1000. Oldest business belonged to Construction category.
 
 
 ## Study Courses
