@@ -78,6 +78,7 @@ It also includeshands-on practice on Python and its popular libraries, including
 ### Fundamentals of Data Analytics - LUMS 
 * Description: This Course is designed to teach data analysis and business intelligence in a hands-on manner and prepare the participants for a career in this field. The course will provide instruction and hands-on training for students to feel confident and to begin work in the industry as a Business Intelligence Analyst or a Data Analyst.
 * [Go to Course](https://ces.lums.edu.pk/course-details.php?cid=125) 
+* Repositroy: Contains practice files created in the course. [Go to Repository](https://github.com/sadafaleem/courses/tree/main/Fundamentals%20of%20Data%20Analytics%20LUMS/SQL%20Queries)
 * Status: Completed
 
 
@@ -90,7 +91,7 @@ Link to Course -> <https://www.udemy.com/course/data-analysis-with-pandas/>
 
 ### SQL - MySQL for Data Analytics and Business Intelligence - Udemy Course
 * Description: This is an easy to understand and comprehensive course offered on Udemy, covering essential SQL skills required for Business Analysis, Marketing, and Data Management. [Go to Course](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/)
-* Repository: This repository contains files included in this course
+* Repository: This repository contains files included in this course. [Go to Repository](https://github.com/sadafaleem/courses/tree/main/SQL%20MySQL%20for%20Data%20analysis%20and%20BI%20course%20Udemy/Queries)
 * Status: Completed
 
 
