@@ -67,6 +67,7 @@ Repository: Go to [Data Sceince Projects](https://github.com/sadafaleem/data_sci
 ### Data Analysis and Machine Learning Using Python - LUMS
 * Description: This course is designed to teach Data Science in a hands-on manner and prepare participants for a career in this field. The course will provide you with the complete toolbox to become a Data Scientist. Students will acquire the precise technical skills recruiters are looking for when hiring Data Scientists.
 * [Go To Course](https://ces.lums.edu.pk/course-details.php?cid=127) 
+* Repositroy: Contains practice files created in the course. [Go to Repository](https://github.com/sadafaleem/courses/tree/main/Data%20Science%20and%20ML%20Using%20Python%20LUMS)
 * Status: Completed
 
 ### Data Analyst with Python Career Track, DataCamp
